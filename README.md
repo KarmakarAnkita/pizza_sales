@@ -13,3 +13,4 @@ This ia a sql based project
 (https://github.com/KarmakarAnkita/pizza_sales/assets/140231914/c6fd1a42-a396-4c90-b88a-1b03cc684018)
 (https://github.com/KarmakarAnkita/pizza_sales/assets/140231914/1c63a1d0-306e-43ca-9fb7-7facb58a5d04)
 (https://github.com/KarmakarAnkita/pizza_sales/assets/140231914/be7c2474-00d6-4836-82c9-0eeb03393c0e)
+(https://github.com/KarmakarAnkita/pizza_sales/assets/140231914/95b1739e-bf40-4d50-84c3-5fd6f48a0f7f)
